@@ -1,0 +1,17 @@
+{
+    "name": "lorenzo/multiple-iterator",
+    "description": "Implements the MultipleIterator class that is missing in HHVM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jose Lorenzo Rodriguez",
+            "email": "jose.zap@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "load.php"
+        ]
+    }
+}
